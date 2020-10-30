@@ -18,4 +18,4 @@ See the [full interactive version](https://whimsical.com/Ep3ctj78dihGyGysZXMbt3)
 
 Many of the materials in this roadmap were inspired by [Daniel Formoso](https://github.com/dformoso)'s [machine learning mindmaps](https://github.com/dformoso/machine-learning-mindmap),so if you enjoyed this one, go and check out his. He also has a mindmap specifically for [deep learning](https://github.com/dformoso/deeplearning-mindmap) too.
 
-Source: [Daniel Bourke](https://github.com/mrdbourke/machine-learning-roadmap)
+**Source: [Daniel Bourke](https://github.com/mrdbourke/machine-learning-roadmap)**
