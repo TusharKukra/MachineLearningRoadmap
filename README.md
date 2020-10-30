@@ -1,4 +1,4 @@
-# 2020 Machine Learning Roadmap
+<center> # 2020 Machine Learning Roadmap </center>
 
 ![2020 machine learning roadmap overview](https://raw.githubusercontent.com/mavericktk/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?)
 
