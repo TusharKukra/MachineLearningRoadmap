@@ -19,3 +19,31 @@ See the [full interactive version](https://whimsical.com/Ep3ctj78dihGyGysZXMbt3)
 Many of the materials in this roadmap were inspired by [Daniel Formoso](https://github.com/dformoso)'s [machine learning mindmaps](https://github.com/dformoso/machine-learning-mindmap),so if you enjoyed this one, go and check out his. He also has a mindmap specifically for [deep learning](https://github.com/dformoso/deeplearning-mindmap) too.
 
 **Source: [Daniel Bourke](https://github.com/mrdbourke/machine-learning-roadmap)**
+
+## Resources:
+
+  [Made With ML](https://madewithml.com/) -Community Website for ML
+  
+  [Mathematics for Machine Learning](https://github.com/MaverickTK/MachineLearning/blob/main/Maths%20of%20ML.pdf) 
+  
+  [DeepLearning.ai -Andrew Ng](https://www.deeplearning.ai/)
+  
+  [Fast.ai -Part-1](https://course.fast.ai/)
+  
+  [Fast.ai -Part-2](https://course19.fast.ai/part2)
+  
+  [CS50 AI Course -Harvard](https://cs50.harvard.edu/ai/2020/)
+  
+  [Full Stack Development Deep Learning](https://course.fullstackdeeplearning.com/)
+  
+  For Testing : [Kaggle](https://www.kaggle.com/) & [Workera.ai](https://workera.ai/)
+  
+  For Datasets : [Kaggle Datasets](https://www.kaggle.com/datasets?fileType=csv) & [DataQuest](https://www.dataquest.io/)
+  
+  For Deployment : use any of these. <br>[Google Cloud](https://cloud.google.com/) <br>
+                   [AWS -Sagemaker](https://aws.amazon.com/sagemaker/) <br>
+                   [Microsoft Azure](https://azure.microsoft.com/en-in/) <br>
+                   [Google Colab](https://colab.research.google.com/) <br>
+                   [Heroku](https://www.heroku.com/) <br>
+  
+  
