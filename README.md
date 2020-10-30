@@ -22,7 +22,7 @@ Many of the materials in this roadmap were inspired by [Daniel Formoso](https://
 
 ## Resources:
 
-  [Made With ML](https://madewithml.com/) -Community Website for ML
+  [Made With ML](https://madewithml.com/) -Community Website for learning ML
   
   [Mathematics for Machine Learning](https://github.com/MaverickTK/MachineLearning/blob/main/Maths%20of%20ML.pdf) 
   
